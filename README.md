@@ -30,7 +30,7 @@ The icon assets consist of the black Loops symbol over a transparent background.
 > The Loops symbol is positionned so that the triangle is optically centered in a holding shape, meaning it’s shifted to the right compared to a naive mathematical centering. Keep it like so unless you know what you’re doing :)
 
 ## Animations
-Several [animated versions](./tree/main/animation/) of the logo are provided:
+Several [animated versions](./animation/) of the logo are provided:
 * **Pulse** variants, for idents or calling attention, played once
 * **Turn** variants, for idents or loading, played once or in a loop
 * **Waves** variants, for loading or idle states, played in a loop
