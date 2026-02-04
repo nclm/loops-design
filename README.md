@@ -1,5 +1,5 @@
 # Loops Brand Assets
-Logos and other brand assets for [Loops](https://github.com/joinloops). Original design by [Rhubarbe](https://rhubarbe.design).
+Logos and other brand assets for [Loops](https://github.com/joinloops). Original design and animation by [Rhubarbe](https://rhubarbe.design).
 
 ## Colors
 The brand colors of Loops are:  
@@ -28,3 +28,14 @@ The icon assets consist of the black Loops symbol over a transparent background.
 
 > [!IMPORTANT]
 > The Loops symbol is positionned so that the triangle is optically centered in a holding shape, meaning it’s shifted to the right compared to a naive mathematical centering. Keep it like so unless you know what you’re doing :)
+
+## Animations
+Several [animated versions](./tree/main/animation/) of the logo are provided:
+* **Pulse** variants, for idents or calling attention, played once
+* **Turn** variants, for idents or loading, played once or in a loop
+* **Waves** variants, for loading or idle states, played in a loop
+
+The animations are available in the following formats:
+* **Lottie** ([format details](https://lottie.github.io)), for vector web and app playing
+* **MP4** (H.264 codec, 3840px), over a yellow background
+* **MOV** (Animation codec with alpha channel, 1920px), over a transparent background
